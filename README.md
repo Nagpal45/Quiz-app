@@ -1,1 +1,1 @@
-# Quiz App based on KBC (an Indian Televison Show)
+# Quiz App based on KBC (Indian Television Show)
